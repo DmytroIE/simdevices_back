@@ -1,0 +1,1 @@
+# maybe it is necessary to use a filter https://django-filter.readthedocs.io/en/main/ref/filters.html#isodatetimefromtorangefilter
